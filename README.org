@@ -1,0 +1,10 @@
+* kangaroo.el
+
+A very very naive clone of Wallaby.js for Emacs and Jest
+specifically. It could probably be implemented as a Flycheck checker
+but documentation was a bit scarce on how to do so, and I wanted to
+attempt it anyway.
+
+* Status
+
+It doesn't work, but it should soon.
